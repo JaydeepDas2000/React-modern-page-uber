@@ -1,0 +1,48 @@
+{
+    "services": [
+        {
+            "id": 1,
+            "title": "Uber Share Ride (1-2 passenger)",
+            "thumbnailUrl": "http://localhost:9000/Maruti_suzuki_alto_800_share.png",
+            "rate": 70,
+            "rating": 3.5,
+            "car": {
+                "id": 1,
+                "carName": "Maruti Suzuki Altu 800"
+            }
+        },
+        {
+            "id": 2,
+            "title": "Uber Go Ride (1-4 passenger)",
+            "thumbnailUrl": "http://localhost:9000/Maruti_suzuki_swift_go.jpg",
+            "rate": 120,
+            "rating": 4,
+            "car": {
+                "id": 1,
+                "carName": "Maruti Suzuki Swift"
+            }
+        },
+        {
+            "id": 3,
+            "title": "Uber Eco Ride (1-6 passenger)",
+            "thumbnailUrl": "http://localhost:9000/ford_eco_sport_eco.png",
+            "rate": 300,
+            "rating": 5,
+            "car": {
+                "id": 1,
+                "carName": "Ford Eco Sport"
+            }
+        },
+        {
+            "id": 4,
+            "title": "Uber Premium Ride (1-2 passenger)",
+            "thumbnailUrl": "http://localhost:9000/audi_a3_premine.png",
+            "rate": 700,
+            "rating": 5,
+            "car": {
+                "id": 1,
+                "carName": "Audi A3"
+            }
+        }
+    ]
+}
